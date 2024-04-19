@@ -1,0 +1,5 @@
+.label pause2=$c040
+.label pause3=$c051
+.label pause1=$c02f
+.label start=$c000
+.label irq=$c025

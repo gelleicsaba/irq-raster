@@ -1,0 +1,14 @@
+Output dir: P:\commodore\irq-raster\bin
+parsing
+flex pass 1
+flex pass 2
+Output pass
+Writing prg file: raster.prg
+
+Memory Map
+----------
+Default-segment:
+  $c000-$c067 Unnamed
+
+Writing Vice symbol file: raster.vs
+Writing Symbol file: raster.sym
