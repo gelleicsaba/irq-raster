@@ -1,6 +1,6 @@
 # Alternate raster line in interrupt
 
-You can drag'drop the bin/d64 than use
+You can drag'drop the bin/raster.prg file than use
 ```
 SYS 49152
 ```
