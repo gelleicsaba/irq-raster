@@ -1,4 +1,4 @@
-# Alternate raster line in interrupt
+# Alternate raster lines in interrupt
 
 You can drag'drop the bin/raster.prg file than use
 ```
